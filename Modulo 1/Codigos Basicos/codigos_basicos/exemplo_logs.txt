@@ -1,0 +1,7 @@
+2025-07-27 10:00:01 INFO: Sistema iniciado com sucesso.
+2025-07-27 10:00:05 DEBUG: Processando requisição ID: 123.
+2025-07-27 10:00:10 ERRO: Falha ao conectar ao banco de dados.
+2025-07-27 10:00:15 INFO: Usuário 'admin' logado.
+2025-07-27 10:00:20 WARNING: Uso de CPU elevado.
+2025-07-27 10:00:25 ERRO: Dados inválidos recebidos na API.
+2025-07-27 10:00:30 DEBUG: Operação finalizada.
